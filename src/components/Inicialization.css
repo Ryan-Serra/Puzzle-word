@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+body{
+    text-align: center;
+    background-color: blue;
+}
+.title_inicialization{
+    color: white;
+    font-family: 'Rubik Doodle Shadow', sans-serif;
+    margin-top:50px;
+    
+}
+.paragrafo_inicialization{
+    color: rgb(228, 228, 17);
+}
+.input_i{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    color: #ffffff;
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    text-transform: uppercase;
+    cursor:pointer;
+
+}
+.input_i:hover{
+    background-color: #26ff24;
+}

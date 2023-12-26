@@ -1,0 +1,56 @@
+#input_f{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    color: #ffffff;
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    text-transform: uppercase;
+    cursor:pointer;
+
+}
+#input_f:hover{
+    background-color: #26ff24;
+}
+.game h1 {
+    font-size: 2.5em;
+}
+.points span {
+    font-weight: bold;
+}
+.tip span {
+     color: #ecfa00
+}
+.wordContainer{
+    margin: 1.5em;
+    padding: 1.5em; 
+    border: 5px solid #ecfa00;
+    display: flex;
+}
+.letter, .blackSquare{
+ font-size: 70px;
+ line-height: 1.5;
+ border: 2px solid #000;
+ height: 100px;
+ width: 100px;
+ text-transform: uppercase;
+ background-color: #fff;
+ color:#000;
+ font-weight: bold;
+}
+.letterContainer p {
+    margin-bottom: 1.2em;
+}
+.letterContainer form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#letter {
+    height: 50px;
+    width: 50px;
+    font-size:2em;
+    text-align: center;
+    margin-right: 1em;
+}
